@@ -1,0 +1,28 @@
+*{
+    margin: none;
+    padding: none;
+    box-sizing: border-box;
+}
+/*body{
+    width: 100%;
+    height: 700px;
+    color: hsl(0, 0%, 82%);
+    background-color: hsl(282, 100%, 41%);
+    background-image: url("Img/_s_a12Cb104c12Cd104e0f0g64hF4D9CA23937F207A80275D76294468262E55iE9j0k64l1F4m1F4.jpg");
+    background-position: center;
+    background-size: contain;cover
+    background-repeat: repeat;
+}
+.section{
+    width: 400px;
+    height: 700px;
+}*/
+
+/*Degradados*/
+body{
+    width: 100vh;
+    height: 100vh;
+    color: hsl(0, 0%, 82%);
+    background: linear-gradient(30deg/*top-left*/,red 5%,blue 95%);
+    background-repeat: no-repeat;
+}
